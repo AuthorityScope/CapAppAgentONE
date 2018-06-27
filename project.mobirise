@@ -141,7 +141,7 @@
             },
             "overlay": true,
             "overlayColor": "#ffffff",
-            "overlayOpacity": "0.6"
+            "overlayOpacity": "0.8"
           },
           "title": "The <i>ONE</i> App That Is About To Change The Game.",
           "text": "As The Largest Independent Title Company in The United States, Capital Title is Committed to Providing the Highest Level of Industry-Leading Technology as Tools &amp; Resources to Our Customers Allowing a Clear Path to Certain Success.",
@@ -183,7 +183,7 @@
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#ffffff"
               },
               {
@@ -197,7 +197,7 @@
                 "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#ffffff"
               },
               {
@@ -211,25 +211,11 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
                 "overlayColor": "#ffffff"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-1600-1024x820.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlay": true,
-                "overlayOpacity": "0.2",
-                "overlayColor": "#ffffff"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-1599-1352x866.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
@@ -239,7 +225,21 @@
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlay": true,
-                "overlayOpacity": "0.2",
+                "overlayOpacity": "0.1",
+                "overlayColor": "#ffffff"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1599-1352x866.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.1",
                 "overlayColor": "#ffffff"
               }
             ]
@@ -287,9 +287,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "<span style=\"font-weight: normal;\">Get Your <i>EXCLUSIVE</i> Access to</span><br>CapAppAgent ONE<br><span style=\"font-weight: normal;\">The Day It's Released</span>",
+          "title": "<span style=\"font-weight: normal;\">Get Your <i>EXCLUSIVE</i> Access to</span><br>CapAppAgent ONE<br><span style=\"font-weight: normal;\">on the Day of Release</span>",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "Get your name on the VIP list by completing the form below. You will receive updates on <b><i>CapAppAgent ONE</i></b>, best practices on how to best utilize this amazing app for the greatest impact on your business and continuous training along with accountability all leading up to the official launch date, <b>July 18, 2018</b>.",
+          "text": "<p>It's EASY to get on the VIP List! Complete the form below and receive updates on <b><i>CapAppAgent ONE</i></b>, the best practices on how to best utilize this amazing app for the greatest impact on your business along with continuous training along and accountability all leading up to the official launch date of&nbsp;<b>July 18, 2018&nbsp;</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -309,7 +309,7 @@
             "bgColor": "#efefef",
             "overlay": true,
             "overlayColor": "#cccccc",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.8"
           },
           "title": "VIP List Entry Form",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Add Me To The VIP List</a>",
@@ -347,7 +347,7 @@
           "_anchor": "form1-l",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#ffffff",
+              "color": "#f51613",
               "text-align": "right",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
