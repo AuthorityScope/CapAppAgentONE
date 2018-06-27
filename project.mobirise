@@ -308,11 +308,11 @@
             "bgColorRadio": false,
             "bgColor": "#efefef",
             "overlay": true,
-            "overlayColor": "#cccccc",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#515151",
+            "overlayOpacity": "0.7"
           },
           "title": "VIP List Entry Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Add Me To The VIP List</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">&nbsp;Add Me To The VIP List</a>",
           "form": {
             "action": "zbohl@ctot.com",
             "alerts": {
@@ -347,7 +347,7 @@
           "_anchor": "form1-l",
           "_styles": {
             ".mbr-header__text": {
-              "color": "#f51613",
+              "color": "#ffffff",
               "text-align": "right",
               "font-family": "'PT Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
