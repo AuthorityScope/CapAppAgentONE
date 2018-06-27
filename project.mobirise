@@ -140,8 +140,8 @@
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": "0.8"
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.5"
           },
           "title": "The <i>ONE</i> App That Is About To Change The Game.",
           "text": "As The Largest Independent Title Company in The United States, Capital Title is Committed to Providing the Highest Level of Industry-Leading Technology as Tools &amp; Resources to Our Customers Allowing a Clear Path to Certain Success.",
@@ -159,6 +159,9 @@
             "P": {
               "color": "#222222",
               "text-align": "right"
+            },
+            "I": {
+              "color": "#f51613"
             }
           }
         },

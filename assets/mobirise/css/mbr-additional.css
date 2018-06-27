@@ -23,6 +23,9 @@
   color: #222222;
   text-align: right;
 }
+#header1-m I {
+  color: #f51613;
+}
 #msg-box3-n .mbr-header .mbr-header__text {
   text-align: center;
   color: #f51613;
